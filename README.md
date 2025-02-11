@@ -13,9 +13,9 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAndres-GitHub&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeAndres-GitHub/JorgeAndres-GitHub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeAndres-GitHub/JorgeAndres-GitHub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JorgeAndres-GitHub/JorgeAndres-GitHub/output/github-snake.svg" />
 </picture>
 
 ## 🏆 GitHub Trophies
