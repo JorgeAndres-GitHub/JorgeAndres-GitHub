@@ -19,6 +19,11 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
   <img alt="github-snake" src="https://raw.githubusercontent.com/JorgeAndres-GitHub/JorgeAndres-GitHub/output/github-snake.svg" />
 </picture>
 
+### :zap: Actividad reciente
+<!-- START_SECTION:activity-->
+
+<!-- END_SECTION:activity-->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JorgeAndres-GitHub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
