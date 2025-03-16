@@ -20,9 +20,9 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 </picture>
 
 ### :zap: Actividad reciente
-<!-- START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!-- END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JorgeAndres-GitHub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
