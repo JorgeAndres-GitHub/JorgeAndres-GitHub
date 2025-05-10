@@ -21,12 +21,15 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
-2. 📔 Created new repository [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
+1. ⬆️ Pushed 3 commit(s) to [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
+2. 🎉 Merged PR [#2](https://github.com/JorgeAndres-GitHub/Weeding-template/pull/2) in [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
+3. 💪 Opened PR [#2](https://github.com/JorgeAndres-GitHub/Weeding-template/pull/2) in [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
+4. ⬆️ Pushed 1 commit(s) to [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
+5. ⬆️ Pushed 2 commit(s) to [JorgeAndres-GitHub/Weeding-template](https://github.com/JorgeAndres-GitHub/Weeding-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 9th, 2025, 1:26:49 PM
+Last Updated: Saturday, May 10th, 2025, 1:58:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
