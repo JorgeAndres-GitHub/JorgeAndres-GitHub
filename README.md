@@ -21,15 +21,15 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JorgeAndres-GitHub/JorgeAndres-GitHub](https://github.com/JorgeAndres-GitHub/JorgeAndres-GitHub)<br>
-2. 📔 Created new repository [JorgeAndres-GitHub/Desafio-c-](https://github.com/JorgeAndres-GitHub/Desafio-c-)<br>
-3. ⬆️ Pushed 1 commit(s) to [JorgeAndres-GitHub/MVC_Store](https://github.com/JorgeAndres-GitHub/MVC_Store)<br>
-4. ⬆️ Pushed 1 commit(s) to [JorgeAndres-GitHub/MVC_Store](https://github.com/JorgeAndres-GitHub/MVC_Store)<br>
-5. 📔 Created new repository [JorgeAndres-GitHub/MVC_Store](https://github.com/JorgeAndres-GitHub/MVC_Store)<br>
+1. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
+2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/JorgeAndres-GitHub](https://github.com/JorgeAndres-GitHub/JorgeAndres-GitHub)<br>
+3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/AWS-INFRAESTRUCTURE](https://github.com/JorgeAndres-GitHub/AWS-INFRAESTRUCTURE)<br>
+4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/AWS-INFRAESTRUCTURE](https://github.com/JorgeAndres-GitHub/AWS-INFRAESTRUCTURE)<br>
+5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/AWS-INFRAESTRUCTURE](https://github.com/JorgeAndres-GitHub/AWS-INFRAESTRUCTURE)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 1:35:26 PM
+Last Updated: Wednesday, October 15th, 2025, 1:59:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
