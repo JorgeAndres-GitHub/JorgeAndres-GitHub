@@ -21,15 +21,15 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [MelanySaez/DroneHullVision](https://github.com/MelanySaez/DroneHullVision)<br>
-2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
-3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/JorgeAndres-GitHub](https://github.com/JorgeAndres-GitHub/JorgeAndres-GitHub)<br>
-4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/AWS-INFRAESTRUCTURE](https://github.com/JorgeAndres-GitHub/AWS-INFRAESTRUCTURE)<br>
-5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/AWS-INFRAESTRUCTURE](https://github.com/JorgeAndres-GitHub/AWS-INFRAESTRUCTURE)<br>
+1. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
+2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
+3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
+4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
+5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 1:58:33 AM
+Last Updated: Thursday, October 23rd, 2025, 1:07:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
