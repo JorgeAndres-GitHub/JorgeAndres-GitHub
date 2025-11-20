@@ -21,15 +21,15 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
-2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
-3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
-4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
-5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/SURA-Proyect](https://github.com/JorgeAndres-GitHub/SURA-Proyect)<br>
+1. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
+2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
+3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
+4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
+5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 19th, 2025, 1:37:09 PM
+Last Updated: Thursday, November 20th, 2025, 2:02:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
