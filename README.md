@@ -22,14 +22,10 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [MelanySaez/Nautic](https://github.com/MelanySaez/Nautic)<br>
-2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
-3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
-4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
-5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/Data_Science_Games](https://github.com/JorgeAndres-GitHub/Data_Science_Games)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 19th, 2025, 1:39:08 PM
+Last Updated: Saturday, December 20th, 2025, 2:04:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
