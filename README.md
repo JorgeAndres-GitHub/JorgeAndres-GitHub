@@ -24,11 +24,12 @@ About Me<br>Hi there! I'm a passionate 20-year-old programmer from Cartagena, Co
 1. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/CS50x-Final-Project](https://github.com/JorgeAndres-GitHub/CS50x-Final-Project)<br>
 2. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/CS50x-Final-Project](https://github.com/JorgeAndres-GitHub/CS50x-Final-Project)<br>
 3. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/CS50x-Final-Project](https://github.com/JorgeAndres-GitHub/CS50x-Final-Project)<br>
-4. 🤝 Became collaborator on [MelanySaez/Nautic](https://github.com/MelanySaez/Nautic)<br>
+4. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/CS50x-Final-Project](https://github.com/JorgeAndres-GitHub/CS50x-Final-Project)<br>
+5. ⬆️ Pushed undefined commit(s) to [JorgeAndres-GitHub/CS50x-Final-Project](https://github.com/JorgeAndres-GitHub/CS50x-Final-Project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 30th, 2025, 12:59:42 PM
+Last Updated: Wednesday, December 31st, 2025, 2:19:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## 🏆 GitHub Trophies
